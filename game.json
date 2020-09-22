@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.gamename",
-    "projectFile": "C:\\Users\\Giovanni Abeni\\Documents\\GDevelop projects\\My project2\\game.json",
+    "projectFile": "/home/guivecchi/Downloads/Games/fireball-cave-game/game.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -2050,6 +2050,8 @@
           "variables": [],
           "behaviors": [
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGrabPlatforms": false,
               "deceleration": 1500,
@@ -2060,10 +2062,8 @@
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
               "maxSpeed": 250,
-              "name": "PlatformerObject",
               "roundCoordinates": true,
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "xGrabTolerance": 10,
               "yGrabOffset": 0
             }
@@ -2595,13 +2595,39 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 64,
           "name": "TileRock2",
           "tags": "",
           "texture": "assets\\Tiles_rock\\tile2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 64,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 64,
+          "name": "TileRock3",
+          "tags": "",
+          "texture": "assets\\Tiles_rock\\tile3.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
@@ -2617,23 +2643,21 @@
         },
         {
           "height": 64,
-          "name": "TileRock3",
-          "tags": "",
-          "texture": "assets\\Tiles_rock\\tile3.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 64,
-          "variables": [],
-          "behaviors": []
-        },
-        {
-          "height": 64,
           "name": "TileRock4",
           "tags": "",
           "texture": "assets\\Tiles_rock\\tile4.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 64,
@@ -2643,7 +2667,15 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 64,
@@ -2653,7 +2685,15 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 64,
@@ -2663,7 +2703,15 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 64,
@@ -2673,7 +2721,15 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 64,
@@ -2683,7 +2739,15 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 64,
@@ -2693,7 +2757,15 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 64,
@@ -2703,7 +2775,15 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 64,
@@ -2713,7 +2793,15 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 64,
@@ -2723,7 +2811,15 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 64,
@@ -2733,7 +2829,15 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 64,
@@ -2743,7 +2847,15 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 64,
@@ -2753,7 +2865,15 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 64,
@@ -2763,7 +2883,15 @@
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "height": 128,
@@ -3334,22 +3462,16 @@
           "variables": [],
           "behaviors": [
             {
-              "acceleration": 1500,
-              "canGrabPlatforms": false,
-              "deceleration": 1500,
-              "gravity": 1000,
+              "acceleration": 400,
+              "allowDiagonals": false,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "deceleration": 800,
               "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 250,
-              "name": "PlatformerObject",
-              "roundCoordinates": true,
-              "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
+              "maxSpeed": 200,
+              "name": "TopDownMovement",
+              "rotateObject": true,
+              "type": "TopDownMovementBehavior::TopDownMovementBehavior"
             }
           ],
           "animations": [
@@ -3823,6 +3945,10 @@
         {
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     }

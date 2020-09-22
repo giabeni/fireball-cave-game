@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.gamename",
-    "projectFile": "/home/guivecchi/Downloads/Games/fireball-cave-game/game.json",
+    "projectFile": "C:\\Users\\Giovanni Abeni\\Documents\\GDevelop projects\\fireball-cave-game\\game.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -661,78 +661,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Details/break-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Details\\break-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Details/break-2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Details\\break-2.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Details/break-3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Details\\break-3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Details/break-4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Details\\break-4.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Details/break-5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Details\\break-5.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Details/break-6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Details\\break-6.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Details/break-7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Details\\break-7.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Details/break-8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Details\\break-8.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/Items/000_0000_crystal10.png",
         "kind": "image",
         "metadata": "",
@@ -1018,6 +946,393 @@
         "name": "assets\\Lizard\\Hurt2.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Walk/walk1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Walk\\walk1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Walk/walk2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Walk\\walk2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Walk/walk3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Walk\\walk3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Walk/walk4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Walk\\walk4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Walk/walk5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Walk\\walk5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Walk/walk6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Walk\\walk6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run/run1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run\\run1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run/run2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run\\run2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run/run3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run\\run3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run/run4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run\\run4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run/run5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run\\run5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run/run6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run\\run6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run/run7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run\\run7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run/run8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run\\run8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Jump/jump1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Jump\\jump1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Jump/jump2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Jump\\jump2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Jump/jump3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Jump\\jump3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Jump/jump4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Jump\\jump4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Jump/jump5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Jump\\jump5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Jump/jump6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Jump\\jump6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Jump/jump7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Jump\\jump7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Walk_Attack/walk_attack1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Walk_Attack\\walk_attack1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Walk_Attack/walk_attack2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Walk_Attack\\walk_attack2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Walk_Attack/walk_attack3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Walk_Attack\\walk_attack3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Walk_Attack/walk_attack4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Walk_Attack\\walk_attack4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Walk_Attack/walk_attack5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Walk_Attack\\walk_attack5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Walk_Attack/walk_attack6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Walk_Attack\\walk_attack6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run_Attack/run_attack1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run_Attack\\run_attack1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run_Attack/run_attack2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run_Attack\\run_attack2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run_Attack/run_attack3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run_Attack\\run_attack3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run_Attack/run_attack4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run_Attack\\run_attack4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run_Attack/run_attack5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run_Attack\\run_attack5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run_Attack/run_attack6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run_Attack\\run_attack6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run_Attack/run_attack7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run_Attack\\run_attack7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mage/Run_Attack/run_attack8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Mage\\Run_Attack\\run_attack8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Details/break-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Details\\break-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Details/break-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Details\\break-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Details/break-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Details\\break-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Details/break-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Details\\break-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Details/break-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Details\\break-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Details/break-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Details\\break-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Details/break-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Details\\break-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Details/break-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Details\\break-8.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1098,8 +1413,8 @@
           "name": "Player",
           "persistentUuid": "9d5fb815-70fe-46c8-9d70-77c911f510d0",
           "width": 0,
-          "x": 0,
-          "y": 542,
+          "x": 44,
+          "y": 508,
           "zOrder": 100,
           "numberProperties": [],
           "stringProperties": [],
@@ -1795,13 +2110,13 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 64,
           "layer": "",
           "locked": false,
           "name": "TileRock31",
           "persistentUuid": "d2a0f63d-982a-43d8-8112-b510a07afe08",
-          "width": 0,
+          "width": 54,
           "x": 256,
           "y": 192,
           "zOrder": 107,
@@ -2083,32 +2398,32 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2,
-                        "y": 127.5
+                        "x": 44,
+                        "y": 108.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 67,
+                        "y": 60.5
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
+                            "x": 24,
                             "y": 51.5
                           },
                           {
-                            "x": 74,
-                            "y": 50.5
+                            "x": 67,
+                            "y": 56.5
                           },
                           {
-                            "x": 78,
-                            "y": 110.5
+                            "x": 76,
+                            "y": 94.5
                           },
                           {
-                            "x": 19,
-                            "y": 109.5
+                            "x": 20,
+                            "y": 93.5
                           }
                         ]
                       ]
@@ -2119,32 +2434,32 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2,
-                        "y": 127.5
+                        "x": 44,
+                        "y": 108.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 67,
+                        "y": 60.5
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
+                            "x": 24,
                             "y": 51.5
                           },
                           {
-                            "x": 74,
-                            "y": 50.5
+                            "x": 67,
+                            "y": 56.5
                           },
                           {
-                            "x": 78,
-                            "y": 110.5
+                            "x": 76,
+                            "y": 94.5
                           },
                           {
-                            "x": 19,
-                            "y": 109.5
+                            "x": 20,
+                            "y": 93.5
                           }
                         ]
                       ]
@@ -2155,32 +2470,32 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2,
-                        "y": 127.5
+                        "x": 44,
+                        "y": 108.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 67,
+                        "y": 60.5
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
+                            "x": 24,
                             "y": 51.5
                           },
                           {
-                            "x": 74,
-                            "y": 50.5
+                            "x": 67,
+                            "y": 56.5
                           },
                           {
-                            "x": 78,
-                            "y": 110.5
+                            "x": 76,
+                            "y": 94.5
                           },
                           {
-                            "x": 19,
-                            "y": 109.5
+                            "x": 20,
+                            "y": 93.5
                           }
                         ]
                       ]
@@ -2191,32 +2506,32 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2,
-                        "y": 127.5
+                        "x": 44,
+                        "y": 108.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 67,
+                        "y": 60.5
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
+                            "x": 24,
                             "y": 51.5
                           },
                           {
-                            "x": 74,
-                            "y": 50.5
+                            "x": 67,
+                            "y": 56.5
                           },
                           {
-                            "x": 78,
-                            "y": 110.5
+                            "x": 76,
+                            "y": 94.5
                           },
                           {
-                            "x": 19,
-                            "y": 109.5
+                            "x": 20,
+                            "y": 93.5
                           }
                         ]
                       ]
@@ -2227,32 +2542,32 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2,
-                        "y": 127.5
+                        "x": 44,
+                        "y": 108.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 67,
+                        "y": 60.5
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
+                            "x": 24,
                             "y": 51.5
                           },
                           {
-                            "x": 74,
-                            "y": 50.5
+                            "x": 67,
+                            "y": 56.5
                           },
                           {
-                            "x": 78,
-                            "y": 110.5
+                            "x": 76,
+                            "y": 94.5
                           },
                           {
-                            "x": 19,
-                            "y": 109.5
+                            "x": 20,
+                            "y": 93.5
                           }
                         ]
                       ]
@@ -2263,32 +2578,32 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2,
-                        "y": 127.5
+                        "x": 44,
+                        "y": 108.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 67,
+                        "y": 60.5
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
+                            "x": 24,
                             "y": 51.5
                           },
                           {
-                            "x": 74,
-                            "y": 50.5
+                            "x": 67,
+                            "y": 56.5
                           },
                           {
-                            "x": 78,
-                            "y": 110.5
+                            "x": 76,
+                            "y": 94.5
                           },
                           {
-                            "x": 19,
-                            "y": 109.5
+                            "x": 20,
+                            "y": 93.5
                           }
                         ]
                       ]
@@ -2299,32 +2614,32 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2,
-                        "y": 127.5
+                        "x": 44,
+                        "y": 108.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 67,
+                        "y": 60.5
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
+                            "x": 24,
                             "y": 51.5
                           },
                           {
-                            "x": 74,
-                            "y": 50.5
+                            "x": 67,
+                            "y": 56.5
                           },
                           {
-                            "x": 78,
-                            "y": 110.5
+                            "x": 76,
+                            "y": 94.5
                           },
                           {
-                            "x": 19,
-                            "y": 109.5
+                            "x": 20,
+                            "y": 93.5
                           }
                         ]
                       ]
@@ -2335,32 +2650,32 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2,
-                        "y": 127.5
+                        "x": 44,
+                        "y": 108.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 67,
+                        "y": 60.5
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
+                            "x": 24,
                             "y": 51.5
                           },
                           {
-                            "x": 74,
-                            "y": 50.5
+                            "x": 67,
+                            "y": 56.5
                           },
                           {
-                            "x": 78,
-                            "y": 110.5
+                            "x": 76,
+                            "y": 94.5
                           },
                           {
-                            "x": 19,
-                            "y": 109.5
+                            "x": 20,
+                            "y": 93.5
                           }
                         ]
                       ]
@@ -2371,32 +2686,32 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2,
-                        "y": 127.5
+                        "x": 44,
+                        "y": 108.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 67,
+                        "y": 60.5
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
+                            "x": 24,
                             "y": 51.5
                           },
                           {
-                            "x": 74,
-                            "y": 50.5
+                            "x": 67,
+                            "y": 56.5
                           },
                           {
-                            "x": 78,
-                            "y": 110.5
+                            "x": 76,
+                            "y": 94.5
                           },
                           {
-                            "x": 19,
-                            "y": 109.5
+                            "x": 20,
+                            "y": 93.5
                           }
                         ]
                       ]
@@ -2407,32 +2722,32 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2,
-                        "y": 127.5
+                        "x": 44,
+                        "y": 108.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 67,
+                        "y": 60.5
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
+                            "x": 24,
                             "y": 51.5
                           },
                           {
-                            "x": 74,
-                            "y": 50.5
+                            "x": 67,
+                            "y": 56.5
                           },
                           {
-                            "x": 78,
-                            "y": 110.5
+                            "x": 76,
+                            "y": 94.5
                           },
                           {
-                            "x": 19,
-                            "y": 109.5
+                            "x": 20,
+                            "y": 93.5
                           }
                         ]
                       ]
@@ -2443,32 +2758,32 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2,
-                        "y": 127.5
+                        "x": 44,
+                        "y": 108.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 67,
+                        "y": 60.5
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
+                            "x": 24,
                             "y": 51.5
                           },
                           {
-                            "x": 74,
-                            "y": 50.5
+                            "x": 67,
+                            "y": 56.5
                           },
                           {
-                            "x": 78,
-                            "y": 110.5
+                            "x": 76,
+                            "y": 94.5
                           },
                           {
-                            "x": 19,
-                            "y": 109.5
+                            "x": 20,
+                            "y": 93.5
                           }
                         ]
                       ]
@@ -2479,32 +2794,32 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2,
-                        "y": 127.5
+                        "x": 44,
+                        "y": 108.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 67,
+                        "y": 60.5
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
+                            "x": 24,
                             "y": 51.5
                           },
                           {
-                            "x": 74,
-                            "y": 50.5
+                            "x": 67,
+                            "y": 56.5
                           },
                           {
-                            "x": 78,
-                            "y": 110.5
+                            "x": 76,
+                            "y": 94.5
                           },
                           {
-                            "x": 19,
-                            "y": 109.5
+                            "x": 20,
+                            "y": 93.5
                           }
                         ]
                       ]
@@ -2515,32 +2830,32 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2,
-                        "y": 127.5
+                        "x": 44,
+                        "y": 108.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 67,
+                        "y": 60.5
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
+                            "x": 24,
                             "y": 51.5
                           },
                           {
-                            "x": 74,
-                            "y": 50.5
+                            "x": 67,
+                            "y": 56.5
                           },
                           {
-                            "x": 78,
-                            "y": 110.5
+                            "x": 76,
+                            "y": 94.5
                           },
                           {
-                            "x": 19,
-                            "y": 109.5
+                            "x": 20,
+                            "y": 93.5
                           }
                         ]
                       ]
@@ -2551,32 +2866,1352 @@
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 2,
-                        "y": 127.5
+                        "x": 44,
+                        "y": 108.5
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 67,
+                        "y": 60.5
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 18,
+                            "x": 24,
                             "y": 51.5
                           },
                           {
-                            "x": 74,
-                            "y": 50.5
+                            "x": 67,
+                            "y": 56.5
                           },
                           {
-                            "x": 78,
-                            "y": 110.5
+                            "x": 76,
+                            "y": 94.5
                           },
                           {
-                            "x": 19,
-                            "y": 109.5
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "walk",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.06,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Walk\\walk1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Walk\\walk2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Walk\\walk3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Walk\\walk4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Walk\\walk5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Walk\\walk6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.04,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run\\run1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run\\run2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run\\run3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run\\run4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run\\run5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run\\run6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run\\run7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run\\run8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "jump",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.06,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Jump\\jump1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Jump\\jump2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Jump\\jump3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Jump\\jump4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Jump\\jump5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Jump\\jump6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Jump\\jump7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "walk_attack",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.02,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Walk_Attack\\walk_attack1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Walk_Attack\\walk_attack2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Walk_Attack\\walk_attack3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Walk_Attack\\walk_attack4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Walk_Attack\\walk_attack5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Walk_Attack\\walk_attack6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "run_attack",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.02,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run_Attack\\run_attack1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run_Attack\\run_attack2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run_Attack\\run_attack3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run_Attack\\run_attack4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run_Attack\\run_attack5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run_Attack\\run_attack6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run_Attack\\run_attack7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Mage\\Run_Attack\\run_attack8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 44,
+                        "y": 108.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 67,
+                        "y": 60.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 51.5
+                          },
+                          {
+                            "x": 67,
+                            "y": 56.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 94.5
+                          },
+                          {
+                            "x": 20,
+                            "y": 93.5
                           }
                         ]
                       ]
@@ -2597,10 +4232,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2615,11 +4250,11 @@
           "variables": [],
           "behaviors": [
             {
+              "canBeGrabbed": false,
               "name": "Platform",
               "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
+              "yGrabOffset": 0,
+              "platformType": "NormalPlatform"
             }
           ]
         },
@@ -2629,14 +4264,14 @@
           "tags": "",
           "texture": "assets\\Tiles_rock\\tile3.png",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 64,
+          "width": 54,
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2651,10 +4286,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2669,10 +4304,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2687,10 +4322,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2705,10 +4340,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2723,10 +4358,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2741,10 +4376,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2759,10 +4394,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2777,10 +4412,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2795,10 +4430,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2813,10 +4448,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2827,14 +4462,14 @@
           "tags": "",
           "texture": "assets\\Tiles_rock\\tile31.png",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 64,
+          "width": 54,
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2849,10 +4484,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2867,10 +4502,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -2885,10 +4520,10 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -3081,7 +4716,15 @@
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": false,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "idle",
@@ -3092,7 +4735,7 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Details\\trap2.png",
                       "points": [],
                       "originPoint": {
@@ -3106,7 +4749,34 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 56,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 120,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 114,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 65,
+                            "y": 99.5
+                          },
+                          {
+                            "x": 14,
+                            "y": 74.5
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -3118,10 +4788,10 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.2,
+                  "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Details\\break-1.png",
                       "points": [],
                       "originPoint": {
@@ -3135,10 +4805,37 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 56,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 120,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 114,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 65,
+                            "y": 99.5
+                          },
+                          {
+                            "x": 14,
+                            "y": 74.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Details\\break-2.png",
                       "points": [],
                       "originPoint": {
@@ -3152,10 +4849,37 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 56,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 120,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 114,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 65,
+                            "y": 99.5
+                          },
+                          {
+                            "x": 14,
+                            "y": 74.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Details\\break-3.png",
                       "points": [],
                       "originPoint": {
@@ -3169,10 +4893,169 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 56,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 120,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 114,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 65,
+                            "y": 99.5
+                          },
+                          {
+                            "x": 14,
+                            "y": 74.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Details\\break-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 56,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 120,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 114,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 65,
+                            "y": 99.5
+                          },
+                          {
+                            "x": 14,
+                            "y": 74.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Details\\break-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 56,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 120,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 114,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 65,
+                            "y": 99.5
+                          },
+                          {
+                            "x": 14,
+                            "y": 74.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Details\\break-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 56,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 120,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 114,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 65,
+                            "y": 99.5
+                          },
+                          {
+                            "x": 14,
+                            "y": 74.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Details\\break-4.png",
                       "points": [],
                       "originPoint": {
@@ -3186,10 +5069,81 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 56,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 120,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 114,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 65,
+                            "y": 99.5
+                          },
+                          {
+                            "x": 14,
+                            "y": 74.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Details\\break-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 56,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 120,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 114,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 65,
+                            "y": 99.5
+                          },
+                          {
+                            "x": 14,
+                            "y": 74.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Details\\break-5.png",
                       "points": [],
                       "originPoint": {
@@ -3203,10 +5157,81 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 56,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 120,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 114,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 65,
+                            "y": 99.5
+                          },
+                          {
+                            "x": 14,
+                            "y": 74.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
+                      "image": "assets\\Details\\break-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 56,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 120,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 114,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 65,
+                            "y": 99.5
+                          },
+                          {
+                            "x": 14,
+                            "y": 74.5
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Details\\break-6.png",
                       "points": [],
                       "originPoint": {
@@ -3220,10 +5245,37 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 56,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 120,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 114,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 65,
+                            "y": 99.5
+                          },
+                          {
+                            "x": 14,
+                            "y": 74.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Details\\break-7.png",
                       "points": [],
                       "originPoint": {
@@ -3237,10 +5289,37 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 56,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 120,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 114,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 65,
+                            "y": 99.5
+                          },
+                          {
+                            "x": 14,
+                            "y": 74.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Details\\break-8.png",
                       "points": [],
                       "originPoint": {
@@ -3254,7 +5333,34 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 56,
+                            "y": 13.5
+                          },
+                          {
+                            "x": 120,
+                            "y": 15.5
+                          },
+                          {
+                            "x": 114,
+                            "y": 79.5
+                          },
+                          {
+                            "x": 65,
+                            "y": 99.5
+                          },
+                          {
+                            "x": 14,
+                            "y": 74.5
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -3279,7 +5385,7 @@
                   "timeBetweenFrames": 0.2,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Items\\000_0000_crystal10.png",
                       "points": [],
                       "originPoint": {
@@ -3293,10 +5399,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.0033,
+                            "y": 0.131579
+                          },
+                          {
+                            "x": 28.898,
+                            "y": 13.8158
+                          },
+                          {
+                            "x": 15.2138,
+                            "y": 31.7105
+                          },
+                          {
+                            "x": 3.37171,
+                            "y": 13.0263
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Items\\000_0001_crystal9.png",
                       "points": [],
                       "originPoint": {
@@ -3310,10 +5435,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.0033,
+                            "y": 0.131579
+                          },
+                          {
+                            "x": 28.898,
+                            "y": 13.8158
+                          },
+                          {
+                            "x": 15.2138,
+                            "y": 31.7105
+                          },
+                          {
+                            "x": 3.37171,
+                            "y": 13.0263
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Items\\000_0002_crystal8.png",
                       "points": [],
                       "originPoint": {
@@ -3327,10 +5471,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.0033,
+                            "y": 0.131579
+                          },
+                          {
+                            "x": 28.898,
+                            "y": 13.8158
+                          },
+                          {
+                            "x": 15.2138,
+                            "y": 31.7105
+                          },
+                          {
+                            "x": 3.37171,
+                            "y": 13.0263
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Items\\000_0003_crystal7.png",
                       "points": [],
                       "originPoint": {
@@ -3344,10 +5507,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.0033,
+                            "y": 0.131579
+                          },
+                          {
+                            "x": 28.898,
+                            "y": 13.8158
+                          },
+                          {
+                            "x": 15.2138,
+                            "y": 31.7105
+                          },
+                          {
+                            "x": 3.37171,
+                            "y": 13.0263
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Items\\000_0004_crystal6.png",
                       "points": [],
                       "originPoint": {
@@ -3361,10 +5543,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.0033,
+                            "y": 0.131579
+                          },
+                          {
+                            "x": 28.898,
+                            "y": 13.8158
+                          },
+                          {
+                            "x": 15.2138,
+                            "y": 31.7105
+                          },
+                          {
+                            "x": 3.37171,
+                            "y": 13.0263
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Items\\000_0005_crystal5.png",
                       "points": [],
                       "originPoint": {
@@ -3378,10 +5579,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.0033,
+                            "y": 0.131579
+                          },
+                          {
+                            "x": 28.898,
+                            "y": 13.8158
+                          },
+                          {
+                            "x": 15.2138,
+                            "y": 31.7105
+                          },
+                          {
+                            "x": 3.37171,
+                            "y": 13.0263
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Items\\000_0006_crystal4.png",
                       "points": [],
                       "originPoint": {
@@ -3395,10 +5615,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.0033,
+                            "y": 0.131579
+                          },
+                          {
+                            "x": 28.898,
+                            "y": 13.8158
+                          },
+                          {
+                            "x": 15.2138,
+                            "y": 31.7105
+                          },
+                          {
+                            "x": 3.37171,
+                            "y": 13.0263
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Items\\000_0007_crystal3.png",
                       "points": [],
                       "originPoint": {
@@ -3412,10 +5651,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.0033,
+                            "y": 0.131579
+                          },
+                          {
+                            "x": 28.898,
+                            "y": 13.8158
+                          },
+                          {
+                            "x": 15.2138,
+                            "y": 31.7105
+                          },
+                          {
+                            "x": 3.37171,
+                            "y": 13.0263
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Items\\000_0008_crystal2.png",
                       "points": [],
                       "originPoint": {
@@ -3429,10 +5687,29 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.0033,
+                            "y": 0.131579
+                          },
+                          {
+                            "x": 28.898,
+                            "y": 13.8158
+                          },
+                          {
+                            "x": 15.2138,
+                            "y": 31.7105
+                          },
+                          {
+                            "x": 3.37171,
+                            "y": 13.0263
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Items\\000_0009_crystal.png",
                       "points": [],
                       "originPoint": {
@@ -3446,7 +5723,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.0033,
+                            "y": 0.131579
+                          },
+                          {
+                            "x": 28.898,
+                            "y": 13.8158
+                          },
+                          {
+                            "x": 15.2138,
+                            "y": 31.7105
+                          },
+                          {
+                            "x": 3.37171,
+                            "y": 13.0263
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -3462,16 +5758,16 @@
           "variables": [],
           "behaviors": [
             {
+              "ignoreDefaultControls": true,
+              "name": "TopDownMovement",
+              "rotateObject": false,
+              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "acceleration": 400,
               "allowDiagonals": false,
               "angleOffset": 0,
               "angularMaxSpeed": 180,
               "deceleration": 800,
-              "ignoreDefaultControls": false,
-              "maxSpeed": 200,
-              "name": "TopDownMovement",
-              "rotateObject": true,
-              "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+              "maxSpeed": 200
             }
           ],
           "animations": [
@@ -3484,7 +5780,7 @@
                   "timeBetweenFrames": 0.3,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Idle1.png",
                       "points": [],
                       "originPoint": {
@@ -3498,10 +5794,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Idle2.png",
                       "points": [],
                       "originPoint": {
@@ -3515,10 +5846,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Idle3.png",
                       "points": [],
                       "originPoint": {
@@ -3532,7 +5898,42 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -3547,7 +5948,7 @@
                   "timeBetweenFrames": 0.12,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Walk1.png",
                       "points": [],
                       "originPoint": {
@@ -3561,10 +5962,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Walk2.png",
                       "points": [],
                       "originPoint": {
@@ -3578,10 +6014,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Walk3.png",
                       "points": [],
                       "originPoint": {
@@ -3595,10 +6066,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Walk4.png",
                       "points": [],
                       "originPoint": {
@@ -3612,10 +6118,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Walk5.png",
                       "points": [],
                       "originPoint": {
@@ -3629,10 +6170,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Walk6.png",
                       "points": [],
                       "originPoint": {
@@ -3646,7 +6222,42 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -3661,7 +6272,7 @@
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Attack1.png",
                       "points": [],
                       "originPoint": {
@@ -3675,10 +6286,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 161,
+                            "y": 106.5
+                          },
+                          {
+                            "x": 200,
+                            "y": 91.5
+                          },
+                          {
+                            "x": 201,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 80,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 119.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Attack2.png",
                       "points": [],
                       "originPoint": {
@@ -3692,10 +6338,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 161,
+                            "y": 106.5
+                          },
+                          {
+                            "x": 200,
+                            "y": 91.5
+                          },
+                          {
+                            "x": 201,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 80,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 119.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Attack3.png",
                       "points": [],
                       "originPoint": {
@@ -3709,10 +6390,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 161,
+                            "y": 106.5
+                          },
+                          {
+                            "x": 200,
+                            "y": 91.5
+                          },
+                          {
+                            "x": 201,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 80,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 119.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Attack4.png",
                       "points": [],
                       "originPoint": {
@@ -3726,10 +6442,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 161,
+                            "y": 106.5
+                          },
+                          {
+                            "x": 200,
+                            "y": 91.5
+                          },
+                          {
+                            "x": 201,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 80,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 119.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Attack5.png",
                       "points": [],
                       "originPoint": {
@@ -3743,7 +6494,42 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 161,
+                            "y": 106.5
+                          },
+                          {
+                            "x": 200,
+                            "y": 91.5
+                          },
+                          {
+                            "x": 201,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 80,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 119.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -3758,7 +6544,7 @@
                   "timeBetweenFrames": 0.2,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Death1.png",
                       "points": [],
                       "originPoint": {
@@ -3772,10 +6558,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Death2.png",
                       "points": [],
                       "originPoint": {
@@ -3789,10 +6610,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Death3.png",
                       "points": [],
                       "originPoint": {
@@ -3806,10 +6662,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Death4.png",
                       "points": [],
                       "originPoint": {
@@ -3823,10 +6714,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Death5.png",
                       "points": [],
                       "originPoint": {
@@ -3840,10 +6766,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Death6.png",
                       "points": [],
                       "originPoint": {
@@ -3857,7 +6818,42 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -3872,7 +6868,7 @@
                   "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Hurt1.png",
                       "points": [],
                       "originPoint": {
@@ -3886,10 +6882,45 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     },
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets\\Lizard\\Hurt2.png",
                       "points": [],
                       "originPoint": {
@@ -3903,7 +6934,42 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 134,
+                            "y": 107.5
+                          },
+                          {
+                            "x": 140,
+                            "y": 128.5
+                          },
+                          {
+                            "x": 175,
+                            "y": 135.5
+                          },
+                          {
+                            "x": 173,
+                            "y": 159.5
+                          },
+                          {
+                            "x": 92,
+                            "y": 153.5
+                          },
+                          {
+                            "x": 83,
+                            "y": 134.5
+                          },
+                          {
+                            "x": 96,
+                            "y": 127.5
+                          },
+                          {
+                            "x": 105,
+                            "y": 106.5
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -3912,7 +6978,379 @@
           ]
         }
       ],
-      "events": [],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsJumping"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"jump\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsFalling"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"jump\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"walk\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::IsMoving"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "\"idle\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionPoint"
+              },
+              "parameters": [
+                "BreakablePlatform",
+                "Player.X()",
+                "Player.Y() + 10"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "BreakablePlatform",
+                "\"break\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "BreakablePlatform",
+                "\"break\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "AnimationEnded"
+              },
+              "parameters": [
+                "BreakablePlatform"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "BreakablePlatform",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Gem",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Gem",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsMoving"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Direction"
+              },
+              "parameters": [
+                "Player",
+                "<",
+                "90"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Direction"
+              },
+              "parameters": [
+                "Player",
+                ">=",
+                "270"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Player",
+                "no"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsMoving"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Direction"
+              },
+              "parameters": [
+                "Player",
+                ">=",
+                "90"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Direction"
+              },
+              "parameters": [
+                "Player",
+                "<",
+                "270"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Player",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 0,
